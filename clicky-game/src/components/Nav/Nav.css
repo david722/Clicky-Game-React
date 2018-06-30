@@ -1,0 +1,33 @@
+.nav {
+    width: 100%;
+    position: sticky;
+    top: 0;
+    left: 0;
+    background-color: red;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+    overflow: hidden;
+    box-shadow: 0 3px 10px grey;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#navTitle {
+    font-size: 200%;
+    font-style: bold;
+}
+
+#guess {
+    margin: 0 15%;
+    font-size: 200%;
+}
+
+.score {
+    font-size: 120%;
+}
+
+#scoreLine {
+    margin-left: 10px;
+    border-left: 2px solid white;
+    padding-left: 10px;
+}

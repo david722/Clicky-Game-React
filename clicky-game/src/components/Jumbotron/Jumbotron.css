@@ -1,0 +1,24 @@
+#jumbotron {
+    width: 100%;
+    overflow: hidden;
+    height: 275px;
+    text-align: center;
+    color: rgb(34,52,128);
+}
+
+h1 {
+    margin: 70px 0 10px;
+    font-size: 350%;
+}
+
+h3 {
+    font-size: 120%;
+    color: rgb(150, 150, 150);
+    margin: 5px;
+   
+    font-weight: bold;
+}
+
+#win {
+    margin-top: 20px;
+}

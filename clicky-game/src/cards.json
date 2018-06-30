@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "name": "Mario",
+      "image": "/images/Mario.png",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "name": "Luigi",
+      "image": "/images/Luigi.png",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "name": "Peach",
+      "image": "/images/Peach.png",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "name": "Bowser",
+      "image": "/images/Bowser.png",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "name": "BowserJr",
+      "image": "/images/BowserJr.png",
+      "clicked": false     
+    },
+    {
+      "id": 6,
+      "name": "Yoshi",
+      "image": "/images/Yoshi.png",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "name": "Toad",
+      "image": "/images/Toad.png",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "name": "BabyMario",
+      "image": "/images/BabyMario.png",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "name": "BabyLuigi",
+      "image": "/images/BabyLuigi.png",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "name": "BabyPeach",
+      "image": "/images/BabyPeach.png",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "name": "GoombaMario",
+      "image": "/images/GoombaMario.png",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "name": "Koopa",
+      "image": "/images/Koopa.png",
+      "clicked": false
+    }
+
+  ]

@@ -1,0 +1,30 @@
+.card {
+    float: left;
+    height: 115px;
+    padding: 12px 10px;
+    box-shadow: 2px 3px 5px grey;
+    margin: 15px;
+}
+
+.card:hover {
+    box-shadow: 6px 9px 5px grey;
+}
+
+.image {
+    width: 100px;
+    height: 100px;
+    margin: auto;
+}
+
+#red {
+    animation: flash 1.5s forwards;
+}
+
+@keyframes flash {
+    from {
+        background: red;
+    }
+    to {
+        background: white;
+    }
+}
